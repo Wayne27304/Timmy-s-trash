@@ -88,6 +88,5 @@ $ sudo rm -rf / --no-preserve-root
 
 ## 📜 授權條款 (License)
 
-本專案採用
-**"Do Whatever You Want Except Deployment"** 
-授權。
+本專案採用**"[Do Whatever You Want Except Deployment**](https://github.com/Wayne27304/Timmy-s-trash/blob/main/License)" 授權
+與 [**Just for fun**](https://github.com/Wayne27304/Timmy-s-trash/blob/main/License2) 授權
