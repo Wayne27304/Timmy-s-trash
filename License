@@ -1,0 +1,25 @@
+# Do Whatever You Want Except Deployment License (DWYWED License)
+Version 1.0, November 2026
+
+Copyright (C) 2026 TimmyFish Trash Project Contributors.
+
+Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed.
+
+---
+
+### TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+**0. Absolute Freedom (Except the Obvious)**
+You may copy, modify, translate, roast, mock, analyze, or print out this source code to wipe your desk. You can use it as a bad example in computer science textbooks or send it to outer space to confuse alien civilisations.
+
+**1. THE NO-DEPLOYMENT CLAUSE (NON-NEGOTIABLE)**
+Under NO circumstances shall you deploy, run, host, execute, or dockerize this software in any live, production, staging, testing, sandbox, local, or cloud environment. 
+* Installing this bot on any server constitutes a direct violation of basic human logic.
+* If you run `python bot.py`, you forfeit your right to complain about high CPU usage, unexpected memory leaks, severe depression, or sudden data loss.
+
+**2. NO WARRANTY & NO LIABILITY**
+THIS SOFTWARE IS PROVIDED "AS IS" AND "AS TRASH AS IT GETS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF FUNCTIONALITY, STABILITY, OR SANITY. 
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+**3. EMOTIONAL SUPPORT DISCLAIMER**
+The author(s) will NOT provide support, bug fixes, code reviews, or emotional counseling when Timmy Fish crashes. If you encounter a bug, congratulations: you have found a feature.
